@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\Transliterator\Transliterator\bin\Debug\Transliterator.exe.config
+C:\Users\Alex\Desktop\Transliterator\Transliterator\bin\Debug\Transliterator.exe
+C:\Users\Alex\Desktop\Transliterator\Transliterator\bin\Debug\Transliterator.pdb
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Debug\Transliterator.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Debug\Transliterator_MarkupCompile.cache
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Debug\Transliterator_MarkupCompile.lref
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Debug\Transliterator.g.resources
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Debug\Transliterator.Properties.Resources.resources
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Debug\Transliterator.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Debug\Transliterator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Debug\Transliterator.exe
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Debug\Transliterator.pdb

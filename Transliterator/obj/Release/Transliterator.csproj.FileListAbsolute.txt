@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Transliterator\Transliterator\bin\Release\Transliterator.exe.config
+C:\Users\Alex\Desktop\Transliterator\Transliterator\bin\Release\Transliterator.exe
+C:\Users\Alex\Desktop\Transliterator\Transliterator\bin\Release\Transliterator.pdb
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Release\MainWindow.g.cs
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Release\App.g.cs
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Release\Transliterator_MarkupCompile.cache
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Release\Transliterator_MarkupCompile.lref
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Release\MainWindow.baml
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Release\Transliterator.g.resources
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Release\Transliterator.Properties.Resources.resources
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Release\Transliterator.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Release\Transliterator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Release\Transliterator.exe
+C:\Users\Alex\Desktop\Transliterator\Transliterator\obj\Release\Transliterator.pdb
